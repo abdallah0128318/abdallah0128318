@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning Laravel framework and develop php APPs 
 - 📫 You can contact me via this email `boda0128318@gmail.com`
-- my Skills are 
+- My skills are 
 - HTML
 - CSS
 - JavaScript
