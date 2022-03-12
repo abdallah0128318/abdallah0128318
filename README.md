@@ -3,12 +3,20 @@
 - 🌱 I’m currently learning Laravel framework and develop php APPs 
 - 📫 You can contact me via this email `boda0128318@gmail.com`
 - My skills are 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
 - JQuery
-- Bootstrap
-- vue.js
+- ES6
+- Bootstrap4
+- react.js
 - MySQL
+- SQL
 - native PHP
 - Larvel PHP
+- Git
+- GitHub
+- Mongodb
+- RestFul API
+- Web Scockets
+- 
