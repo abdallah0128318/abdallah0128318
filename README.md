@@ -9,15 +9,12 @@
 - JQuery
 - ES6
 - Bootstrap4
-- react.js
 - MySQL
 - SQL
 - native PHP
 - Larvel PHP
 - Git
 - GitHub
-- Mongodb
 - RestFul API
 - Web Scockets
-- node.js
-- Express.js
+- Angular.js framework
