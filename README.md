@@ -1,20 +1,23 @@
 - 👋 Hi, I’m @abdallah0128318
 - 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning Laravel framework and develop php APPs 
+- 🌱 I’m currently learning MERN Stack Development
 - 📫 You can contact me via this email `boda0128318@gmail.com`
 - My skills are 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 - JQuery
 - ES6
-- Bootstrap4
+- Tailwind.css
 - MySQL
 - SQL
-- native PHP
-- Larvel PHP
+- Ajax
+- Mongodb
+- Express.js
+- React.js
+- node.js
 - Git
 - GitHub
+- Docker
 - RestFul API
 - Web Scockets
-- Angular.js framework
