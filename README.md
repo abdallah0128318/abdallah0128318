@@ -8,6 +8,7 @@
 - JavaScript
 - JQuery
 - ES6
+- TypeScript
 - Tailwind.css
 - MySQL
 - SQL
