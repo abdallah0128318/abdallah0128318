@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @abdallah0128318
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning MERN Stack Development
-- 📫 You can contact me via this email `boda0128318@gmail.com`
-- My skills are 
+- 📫 You can contact me via this email `boda0128318@gmail.com` and here is my skills 
 - HTML
 - CSS
 - JavaScript
@@ -13,7 +12,7 @@
 - MySQL
 - SQL
 - Ajax
-- Mongodb
+- MongoDB
 - Express.js
 - React.js
 - node.js
@@ -21,4 +20,8 @@
 - GitHub
 - Docker
 - RestFul API
-- Web Scockets
+- Web Sockets
+- SQL
+- MySQL
+- php
+- laravel
