@@ -30,7 +30,6 @@
 ### 📫 Contact Me
 
 - 📧 boda0128318@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/abdallah-qapeel-a765811a9/)  
 - 💻 [GitHub](https://github.com/abdallah0128318)  
 
 ---
